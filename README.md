@@ -1,16 +1,6 @@
 # Persistent-activity
-This is a model of persitent activity, a neural behavior underlying working memory.
-This model, coded in python using Brian 2 package, is inspired by (Compte et al., 2000).
 
-References :
-
-Compte, A., Brunel, N., Goldman-Rakic, P. S., & Wang, X. J. (2000). Synaptic mechanisms and network dynamics underlying spatial working memory in a cortical network model. Cerebral Cortex, 10(9), 910-923
-
-
-
-Welcome to the Persistent-activity wiki!
-
-This model is inspired by Compte et al.,2000 and an exercise of neural dynamics textbook. 
+This model is inspired by the article (Compte et al.,2000) and an exercise of neural dynamics textbook. 
 
 To use this model you will need the Brian2 package for neural simulations (https://brian2.readthedocs.io/en/stable/).
 
@@ -30,4 +20,6 @@ The present model mimics a network going through the delay response task (Fig.2)
 References:
 
 Neural dynamics textbook exercise on spatial memory: https://neuronaldynamics-exercises.readthedocs.io/en/latest/exercises/spatial-working-memory.html
+
+Compte, A., Brunel, N., Goldman-Rakic, P. S., & Wang, X. J. (2000). Synaptic mechanisms and network dynamics underlying spatial working memory in a cortical network model. Cerebral Cortex, 10(9), 910-923
 
