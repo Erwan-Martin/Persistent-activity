@@ -2,7 +2,7 @@
 
 This model is inspired by the article (Compte et al.,2000) and an exercise of neural dynamics textbook. 
 
-To use this model requires the Brian2 package for neural simulations (https://brian2.readthedocs.io/en/stable/).
+This model requires the Brian2 package for neural simulations (https://brian2.readthedocs.io/en/stable/).
 
 This is a leaky integrate and fire model that modelize the prefrontal cortex area and external input connections from other area of the brain.
 
