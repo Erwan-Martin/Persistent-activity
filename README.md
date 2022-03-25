@@ -1,6 +1,6 @@
 # Persistent-activity
 This is a model of persitent activity, a neural behavior underlying working memory.
-This model coded in python using Brian 2 backage is inspired by (Compte et al., 2000)
+This model, coded in python using Brian 2 backage, is inspired by (Compte et al., 2000)
 
 References :
 
