@@ -15,7 +15,7 @@ The network is made of two neuron populations, excitatory and inhibitory, every 
 ![Picture1](https://user-images.githubusercontent.com/93595122/160186440-1bfb8aa2-b7fa-436d-9140-4f27eeadba3b.png)
  Figure 2: In the delay response task, a visual cue is shown on a screen in one of 8 possible positions, the task consists of remembering the position of the visual cue after a short delay period where the cue is hidden.
 
-The present model mimics a network going through the delay response task (Fig.2). Every excitatory neurons in the network has a prefered cue position and will respond to the visual stimulation only if the cue appear in their prefered position. To modelize this phenomenon a fraction of the excitatory population receives a current stimulation for a defined period of time during the stimulation. This represent the cue presentation period. The fraction of excitatory neurons that receive this stimulation depends of the position of the visual cue.
+The present model mimics a network going through the delay response task (Fig.2). Every excitatory neurons in the network has a prefered cue position and will respond to the visual stimulation only if the cue appear in their prefered position. To modelize this phenomenon a fraction of the excitatory population receives a current stimulation for a defined period of time during the simulation. This represent the cue presentation period. The fraction of excitatory neurons that receive this stimulation depends of the position of the visual cue.
 
 References:
 
