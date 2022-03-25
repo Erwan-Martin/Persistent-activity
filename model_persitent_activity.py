@@ -58,10 +58,10 @@ stimulus_pos=4
 
 # define subpopulation affected by sensory simulus
 
-j=int(N_e/8)
-sensory_stim=[[0,j]]
+k=int(N_e/8)
+sensory_stim=[[0,k]]
 for a in range(1,8):
-    sensory_stim.append([a*j,(a+1)*j-1]) # group the neurons in 8 equal groups depending of thri id#
+    sensory_stim.append([a*k,(a+1)*k-1]) # grouping the neurons in 8 equal groups depending of their id#
     
 # define sensory stimulus 
 I_stim_def=[]
